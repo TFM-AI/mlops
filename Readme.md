@@ -1,2 +1,2 @@
 ### TFM AI - UNIR
-Proyecto MLOps V1.0
+Proyecto MLOps V1.1
