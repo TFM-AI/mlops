@@ -1,0 +1,6 @@
+{
+    "subscription_id": "2f64b5a0-ed72-465b-a2e2-1ac126b78705",
+    "resource_group": "TFM_AI",
+    "workspace_name": "AzureMLOps",
+    "location": "westeurope"
+}
